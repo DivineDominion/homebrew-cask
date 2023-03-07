@@ -5,7 +5,7 @@ cask "tableflip" do
   url "https://update.christiantietze.de/tableflip/v#{version.major}/TableFlip-v#{version}.zip",
       verified: "update.christiantietze.de/tableflip/"
   name "TableFlip"
-  desc "App to edit markdown files in place"
+  desc "Companion app to edit Markdown tables so that other apps pick up the changes."
   homepage "https://tableflipapp.com/"
 
   livecheck do
